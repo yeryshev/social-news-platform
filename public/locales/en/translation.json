@@ -1,4 +1,8 @@
 {
-  "Main page": "Main page",
-  "Language": "English"
+    "Main page": "Main page",
+    "Language": "English",
+    "About": "About",
+    "Main": "Main",
+    "Toggle sidebar": "Toggle sidebar",
+    "Loading...": "Loading..."
 }
