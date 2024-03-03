@@ -8,7 +8,8 @@
     {
       "files": "*.{js,jsx,ts,tsx,scss}",
       "options": {
-        "tabWidth": 4
+        "tabWidth": 4,
+        "printWidth": 100
       }
     }
   ]
