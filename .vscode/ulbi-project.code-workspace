@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "name": "ulbi-project",
+      "path": ".."
+    },
+    {
+      "name": "drb-status-frontend",
+      "path": "../../drb-status/drb-status-frontend"
+    },
+    {
+      "name": "drb-status-api",
+      "path": "../../drb-status/drb-status-api"
+    }
+  ],
+  "settings": {
+    "i18n-ally.keystyle": "flat",
+    "i18n-ally.localesPaths": ["public/locales", "src/shared/config/i18n"]
+  }
+}
