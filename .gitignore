@@ -1,7 +1,9 @@
+.DS_Store
+.vscode
 /build
 node_modules
 .idea
 /storybook-static
 .loki/report.html
 .loki/report.json
-/reports
+/reports/unit
